@@ -1,5 +1,5 @@
 # Intrusion-Detection
-Network security and Intrusion Detection in Cyber Security.
+
 Abstract:
 The increasing reliance on networked systems in both personal and professional contexts has elevated the importance of network security. This project focuses on understanding and improving network security by employing intrusion detection systems (IDS). IDSs are critical for identifying and responding to potential threats in real-time. This project explores the existing network security landscape, identifies gaps, and proposes an enhanced IDS framework to better detect and mitigate intrusions. Through implementation and testing, the proposed system demonstrates improved accuracy and response times, contributing to more robust cybersecurity defenses.
 
