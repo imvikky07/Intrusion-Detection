@@ -1,0 +1,31 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Jul 18 12:35:07 2024
+
+@author: Vivek
+"""
+
+import pandas as pd
+
+duration,protocol_type,service,src_bytes,dst_bytes,flag,label
+0,tcp,http,181,5450,SF,normal
+0,tcp,http,239,4860,SF,normal
+0,tcp,http,235,1337,SF,normal
+0,tcp,http,219,1337,SF,normal
+0,tcp,http,217,2032,SF,normal
+0,tcp,http,217,2032,SF,normal
+0,tcp,http,217,2032,SF,normal
+0,tcp,http,0,0,RSTO,anomaly
+0,tcp,http,0,0,SF,anomaly
+0,tcp,http,0,0,SF,anomaly
+0,tcp,http,0,0,SF,anomaly
+0,tcp,http,0,0,SF,anomaly
+0,tcp,http,0,0,SF,anomaly
+0,tcp,http,0,0,SF,anomaly
+0,tcp,http,0,0,SF,anomaly
+0,tcp,http,0,0,SF,anomaly
+0,tcp,http,0,0,SF,anomaly
+0,tcp,http,0,0,SF,anomaly
+0,tcp,http,0,0,SF,anomaly
+0,tcp,http,0,0,SF,anomaly
+
